@@ -1,0 +1,12 @@
+Eine Spielfigur bewegt sich durch das Gelände.
+Gelände: 
+ - Wasser   = Schwimmen
+ - Straße   = Fahren
+ - Feldweg  = Gehen
+ - Schlucht = Fliegen
+ - Berg     = Klettern
+
+Je nach Beschaffenheit des Geländes soll die Spielfigur ihr Verhalten ändern, um weiter vorwärts zu kommen.
+
+Das Ganze soll über 10 Runden gehen, wobei in jeder Runde zufällig ausgelost wird, welches Gelände als Nächstes dran ist.
+
